@@ -1,6 +1,6 @@
 ## Contributions of Transformer Attention Heads in Multi- and Cross-lingual Tasks
 
-Code for ACL 2021 paper: Contributions of Transformer Attention Heads in Multi- and Cross-lingual Tasks.
+Code for ACL 2021 paper: [Contributions of Transformer Attention Heads in Multi- and Cross-lingual Tasks](https://aclanthology.org/2021.acl-long.152.pdf).
 
 #### Required packages:
 
